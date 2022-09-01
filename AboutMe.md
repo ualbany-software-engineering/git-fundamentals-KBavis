@@ -1,0 +1,1 @@
+Hi, I am Kellen Bavis and I am currently in my Senior Year here at University at Albany. I am a Computer Science major and a Mathmatics minor. I am hoping to be able to further my software engineering knowledge throughout the course of this semester. I can't wait to start the software development life cycle and be able to work in a team environment while doing so.
